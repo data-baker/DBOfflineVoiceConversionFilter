@@ -1,0 +1,6 @@
+framework module DataBakerOfflineVC {
+  umbrella header "DataBakerOfflineVC.h"
+
+  export *
+  module * { export * }
+}
